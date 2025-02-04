@@ -5,4 +5,4 @@ dependencies:
 ```
 pip install gradio torch torchaudio numpy scipy
 ```
-https://github.com/bornpresident/Speaker-Embedding-Using-ECAPA-TDNN/blob/main/2025-02-04%2017_04_10-Gradio%20and%203%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge.png
+![PIC](2025-02-04 17_04_10-Gradio and 3 more pages - Personal - Microsoft​ Edge.png)
