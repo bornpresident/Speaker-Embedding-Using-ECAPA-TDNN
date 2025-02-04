@@ -5,4 +5,4 @@ dependencies:
 ```
 pip install gradio torch torchaudio numpy scipy
 ```
-![PIC](PIC.png)
+[PIC](PIC.png)
