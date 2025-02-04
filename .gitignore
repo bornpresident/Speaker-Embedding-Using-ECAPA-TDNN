@@ -1,0 +1,5 @@
+spk_iden_env
+spk_encoder/speaker_encoder.pt
+hubert
+spk_encoder/__pycache__
+spk_encoder/speaker_encoder/__pycache__

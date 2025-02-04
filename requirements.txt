@@ -1,0 +1,26 @@
+pydub
+librosa
+torch
+torchaudio
+torchvision
+numpy
+scikit-learn
+scipy
+# fairseq==0.12.2
+fairseq
+# s3prl==0.4.10
+s3prl
+# hydra-core==1.0.7
+hydra-core
+# omegaconf==2.0.6
+omegaconf
+urllib3
+amfm_decompy
+einops
+inflect
+joblib
+matplotlib
+packaging
+phonemizer
+transformers
+unidecode
